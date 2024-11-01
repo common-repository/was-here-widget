@@ -1,0 +1,34 @@
+div#sudocode_was_here_widget,
+div#sudocode_was_here_widget ul#sudocode_was_here_ul *,
+div#sudocode_was_here_widget ul#sudocode_was_here_ul a:visited,
+div#sudocode_was_here_widget ul#sudocode_was_here_ul a:hover,
+div#sudocode_was_here_widget ul#sudocode_was_here_ul a:active {
+	clear:none;
+	padding:0;
+	margin:0;
+	background:none;
+	border:none;
+	text-decoration:none;
+	list-style:none;
+	border:0;
+}
+div#sudocode_was_here_widget {
+	margin:20px 10px 20px;
+}
+div#sudocode_was_here_widget ul#sudocode_was_here_ul {
+
+}
+div#sudocode_was_here_widget ul#sudocode_was_here_ul li {
+	float:left;
+	margin:0 3px 0 0;
+}
+div#sudocode_was_here_widget ul#sudocode_was_here_ul li a {
+
+}
+div#sudocode_was_here_widget ul#sudocode_was_here_ul li a img {
+	border-radius:2px;
+	-moz-border-radius:2px;
+}
+div#sudocode_was_here_widget div#sudocode_was_here_clear {
+	clear:both;
+}
